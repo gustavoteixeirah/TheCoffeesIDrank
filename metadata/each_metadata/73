@@ -1,0 +1,21 @@
+{
+    "name": "KryptoDeveloper #73",
+    "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+    "tokenId": 73,
+    "external_url": "https://www.kryptodevelopers.dev/",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Company"
+        },
+        {
+            "trait_type": "Developer",
+            "value": "Julien"
+        },
+        {
+            "trait_type": "Beverage",
+            "value": "Water Bottle"
+        }
+    ],
+    "image": "ipfs://QmRKvknAbFqEjqMaqp2vzDPCQoxpoWDAybTVA4pcim6NoX"
+}

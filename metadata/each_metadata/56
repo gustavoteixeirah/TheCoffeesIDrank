@@ -1,0 +1,21 @@
+{
+    "name": "KryptoDeveloper #56",
+    "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+    "tokenId": 56,
+    "external_url": "https://www.kryptodevelopers.dev/",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Company"
+        },
+        {
+            "trait_type": "Developer",
+            "value": "Renan"
+        },
+        {
+            "trait_type": "Beverage",
+            "value": "Juice"
+        }
+    ],
+    "image": "ipfs://Qmb53pEMk2JTHVcJdrsuPiiMks2rKxYqbEhR3HhcCvyh5D"
+}

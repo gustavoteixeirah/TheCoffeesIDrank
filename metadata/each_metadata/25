@@ -1,0 +1,21 @@
+{
+    "name": "KryptoDeveloper #25",
+    "description": "Developers are the key people behind any software that has ever been built. This NFT collection seeks to illustrate these hard-working people that expends their days in front of a computer to solve problems.",
+    "tokenId": 25,
+    "external_url": "https://www.kryptodevelopers.dev/",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "The Office"
+        },
+        {
+            "trait_type": "Developer",
+            "value": "Marcelo"
+        },
+        {
+            "trait_type": "Beverage",
+            "value": "Protein Shake"
+        }
+    ],
+    "image": "ipfs://QmT5gC8ML5P3LEyds82t1w5otxK5z3Ef3s5PdfsCoY6Jmj"
+}
