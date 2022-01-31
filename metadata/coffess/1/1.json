@@ -1,0 +1,31 @@
+{
+  "name": "Gran Lungo Costa Rica",
+  "description": "This is the immortal proof of the consumption of this delicious coffee. It was the first coffee made in my new Nespresso Vertuo machine. It was...awesome!",
+  "tokenId": 1,
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Nespresso"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Costa Rica"
+    },
+    {
+      "trait_type": "Capsule type",
+      "value": "Vertuo"
+    },
+    { "display_type": "number", "trait_type": "Size in ml", "value": 150 },
+    {
+      "trait_type": "Intensity",
+      "value": 7
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Consumed at",
+      "value": 1643664000
+    }
+  ],
+  "imageHighResolution": "https://gateway.pinata.cloud/ipfs/QmbQVNHSmeAwG9cx5fmkVidSMjVztKHcFVCshHSSCkP2Lp",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUHk5CkaZApgkWmpnY7KDNLjP5isMFABBHjsexCf8ktVR"
+}
